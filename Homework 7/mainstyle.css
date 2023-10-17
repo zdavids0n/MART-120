@@ -1,2 +1,4 @@
 div{color:purple; background-color: aqua;}
-.redColor{color:red ;font-family: 'Times New Roman', Times, serif; font-size: 16px;}
+.redColor{color:red ;font-family:'Courier New', Courier, monospace; font-size: 14px; background-color: rgba(239, 254, 22, 0.803);}
+#specificColor {color:rgb(76, 52, 162); font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 30px;}
+#specificLink {color:#fdfdfc; font-family: 'Courier New', Courier, monospace;font-size: 16px;background-color: #020202;}
