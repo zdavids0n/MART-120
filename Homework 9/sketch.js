@@ -1,8 +1,9 @@
 function setup() {
-  createCanvas(400,400);
+  createCanvas(400,600);
 }
 
-function draw() {
+function draw() 
+{
   background(120, 45, 78);
   fill(125,10,160);
   circle (200,150, 182);
@@ -12,9 +13,9 @@ function draw() {
   elipse (33,56,72,13);
   fill (10,70,5);
   triangle (2,33,41,22,7,62);
-  line (22,66,4,12)
+  line (22,66,4,12);
   fill (10,10,10);
-  point (30,20)
-  point (50,20)
+  point (30,20);
+  point (50,20);
 
 }
